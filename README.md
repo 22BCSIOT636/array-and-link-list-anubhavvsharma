@@ -29,5 +29,5 @@ Drone Management System is a web application that allows users to manage drones,
 - MongoDB (for local development)
 
 Instructions to use: 
-backend- npm start
-frontend- npm run dev
+BACKEND- npm start
+FRONTEND- npm run dev
